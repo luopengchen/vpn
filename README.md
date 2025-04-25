@@ -27,7 +27,11 @@
   ![image](https://github.com/user-attachments/assets/d6b47ca8-2e7b-4a33-9529-5b7760951641)
 
 **其余vpn**
+- 万达云官网（节点多！！！）:https://app.wdycenter.com/register?code=QI8eCx4s
+
 - 龙猫云官网：https://inv03.lmaff01.cc/register?aff=AtajBF1e
 - 优惠码-:月付/季度/半年：享受85折优惠，优惠码：spring85; 年付/2年/3年：享受8折优惠，优惠码：spring80
+
+- 贝贝云官网:https://beibeilink.top/register?code=5gqE8Bpy
 
 
