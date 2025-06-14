@@ -5,16 +5,15 @@
 
 以下三个实测都支持 Windows、macOS、Android 和 iOS 等定制客户端。  
 
-
-**1. 特价机场VPN—轻度使用者的首选，全网最低价格**
-- 特价机场官网-: https://74679.xyz/#/register?code=mhgR7KU5
-- 优点-: 对于轻度用户来说，这款 VPN 是最佳选择，价格全网最低。尽管价格低廉，但依然支持解锁各种流媒体。
-  ![image](https://github.com/user-attachments/assets/2d2f81e3-9445-456b-9fea-71592fd6c522)
-
-**2. 流量光VPN—高性价比的最佳选择**
+**1. 流量光VPN—高性价比的最佳选择**
 - 流量光官网-: https://llgjc1.com/#/register?code=mxUrEOxe
 - 优点-:  权衡速度，安全，稳定，价钱之间做的最佳选择。当前月付仅需 4.9 元，每月享受 150G 流量，但即将涨价，手慢无！
   ![image](https://github.com/user-attachments/assets/0a8cdda9-94f2-4f0a-b005-39b367af4dce)
+
+**2. 特价机场VPN—轻度使用者的首选，全网最低价格**
+- 特价机场官网-: https://74679.xyz/#/register?code=mhgR7KU5
+- 优点-: 对于轻度用户来说，这款 VPN 是最佳选择，价格全网最低。尽管价格低廉，但依然支持解锁各种流媒体。
+  ![image](https://github.com/user-attachments/assets/2d2f81e3-9445-456b-9fea-71592fd6c522)
 
 **3. 老猫云VPN—能长久稳定使用,不卡顿**
 - 流量光官网-: https://laomao.biz?path=register&code=2Ger15op
