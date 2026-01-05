@@ -6,7 +6,7 @@
 以下三个实测都支持 Windows、macOS、Android 和 iOS 等定制客户端。  
 
 **1. 流量光VPN—高性价比的最佳选择**
-- 流量光官网-: https://llgjc1.com/#/register?code=mxUrEOxe
+- 流量光官网-: https://llg01.com/#/register?code=mxUrEOxe
 - 优点-:  权衡速度，安全，稳定，价钱之间做的最佳选择。当前月付仅需 4.9 元，每月享受 150G 流量，但即将涨价，手慢无！
   ![image](https://github.com/user-attachments/assets/0a8cdda9-94f2-4f0a-b005-39b367af4dce)
 
